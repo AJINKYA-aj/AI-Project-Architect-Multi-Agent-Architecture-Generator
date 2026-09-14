@@ -1,0 +1,25 @@
+# Core LangChain
+langchain>=0.3.0
+langchain-community>=0.3.0
+langchain-ollama>=0.2.0
+langchain-huggingface>=0.1.0
+
+# LLM backend (local via Ollama)
+ollama>=0.3.0
+
+# Embeddings
+sentence-transformers>=3.0.0
+transformers>=4.40.0
+
+# Vector store
+faiss-cpu>=1.8.0
+
+# Document loaders
+pypdf>=4.0.0
+unstructured>=0.14.0
+
+# UI
+streamlit>=1.37.0
+
+# Utilities
+python-dotenv>=1.0.0
